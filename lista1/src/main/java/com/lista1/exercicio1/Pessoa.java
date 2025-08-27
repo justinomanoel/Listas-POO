@@ -1,4 +1,5 @@
 package com.lista1.exercicio1;
+
 public class Pessoa {
     String nome;
     String sexo;

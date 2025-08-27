@@ -1,8 +1,8 @@
 package com.lista1.exercicio2;
 
 public class Lampada {
-    Estado estado;
-    int contadorAcendimento;
+    private Estado estado;
+    private int contadorAcendimento;
 
     public Lampada(Estado estado) {
         this.estado = estado;
@@ -23,7 +23,7 @@ public class Lampada {
 
     public Estado checaEstado() {
         return estado;
-    }
+    }    
 }
 
 

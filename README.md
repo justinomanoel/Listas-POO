@@ -1,2 +1,76 @@
-# Listas-POO
-Resolução das listas de exercício da disciplina de Programação Orientada a Objetos da Fatec Baixada Santista
+# ☕ Programação Orientada a Objetos - FATEC Rubens Lara
+## Resolução da Lista de Exercícios 1
+
+![Fatec Rubens Lara](https://i.imgur.com/2YRE02S.png)
+
+Repositório dedicado à resolução da **Lista de Exercícios 1** da disciplina de **Programação Orientada a Objetos (POO)**, do curso de **[Nome do seu Curso, ex: Análise e Desenvolvimento de Sistemas]** na Faculdade de Tecnologia de Santos - Rubens Lara.
+
+[cite_start]A lista de exercícios foi proposta pelo Prof. Dr. Alexandre Garcia de Oliveira e aborda os seguintes tópicos[cite: 2]:
+* [cite_start]Introdução, Construtores e Enumerações [cite: 4]
+* [cite_start]Modificador `static` [cite: 40]
+* [cite_start]Relação entre Classes [cite: 44]
+
+## 🛠️ Tecnologias e Ferramentas
+
+-   **Linguagem Principal:** Java
+-   **JDK:** [Ex: OpenJDK 17]
+-   **IDE:** [Ex: Eclipse, IntelliJ IDEA, VS Code]
+-   **Controle de Versão:** Git e GitHub
+
+---
+
+## 🚀 Como Executar os Exercícios
+
+Cada exercício está em sua própria pasta para melhor organização. Para executar:
+
+1.  **Clone o repositório:**
+    ```bash
+    git clone [https://github.com/](https://github.com/)[SEU_USUARIO_GITHUB]/[NOME_DO_REPOSITORIO].git
+    ```
+
+2.  **Navegue até a pasta do exercício desejado:**
+    ```bash
+    cd [NOME_DO_REPOSITORIO]/exercicio-01
+    ```
+
+3.  **Compile o(s) arquivo(s) `.java`:**
+    ```bash
+    javac *.java
+    ```
+
+4.  **Execute a classe principal:**
+    ```bash
+    java Main # ou o nome da classe principal
+    ```
+
+*Observação: A forma mais simples é importar o projeto em sua IDE Java preferida e executar a classe principal por meio dela.*
+
+---
+
+## 📖 Lista 1: Exercícios Resolvidos
+
+A tabela abaixo detalha cada exercício proposto na lista.
+
+| Exercício | Descrição Resumida | Link da Solução |
+| :-------- | :----------------------------------------------------------- | :---------------------------------- |
+| **01** | [cite_start]Classe `Pessoa` e `Churrasco` para calcular o consumo de carne por pessoa[cite: 5, 6, 7]. | [Ver Código](./exercicio-01/) |
+| **02** | [cite_start]Classe `Lâmpada` com estado (acesa/apagada), contador de acendimentos e checagem de estado[cite: 9, 10, 11, 12]. | [Ver Código](./exercicio-02/) |
+| **03** | [cite_start]Classe `Complexo` para representar e calcular operações com números imaginários (soma, multiplicação, módulo, etc.)[cite: 14, 19, 20, 23]. | [Ver Código](./exercicio-03/) |
+| **04** | [cite_start]Classe `Cliente` com atributos de saldo e limite, e métodos para sacar, depositar e checar saldo[cite: 25, 26, 27, 28]. | [Ver Código](./exercicio-04/) |
+| **05** | [cite_start]Classe para modelar um `Triangulo Equilátero`, calculando sua área e perímetro a partir do lado[cite: 30, 31]. | [Ver Código](./exercicio-05/) |
+| **06** | [cite_start]Jogo de adivinhação de números (0 a 99) com métodos para sortear e tentar adivinhar[cite: 34, 35]. | [Ver Código](./exercicio-06/) |
+| **07** | [cite_start]Classe `Eq2Grau` para calcular o delta e as raízes de uma equação de segundo grau[cite: 37, 38, 39]. | [Ver Código](./exercicio-07/) |
+| **08** | [cite_start]Classe `Porta` com um contador `static` para registrar o número total de aberturas de todas as portas criadas[cite: 41, 42, 43]. | [Ver Código](./exercicio-08/) |
+| **09** | [cite_start]Classe `Transferencia` que utiliza a classe `Cliente` (Ex 4) para transferir um valor entre duas contas[cite: 45]. | [Ver Código](./exercicio-09/) |
+| **10** | [cite_start]Classe `Casa` que possui atributos e até três objetos do tipo `Porta` (Ex 8), com métodos para gerenciá-las[cite: 48, 49]. | [Ver Código](./exercicio-10/) |
+| **11** | [cite_start]Classes `Edificio` e `Apartamento`, onde um edifício pode conter e gerenciar uma lista de apartamentos[cite: 53, 54, 55]. | [Ver Código](./exercicio-11/) |
+| **12** | [cite_start]Classes `Cliente` e `Telefone`, modelando a associação onde um cliente possui um telefone com DDD e número[cite: 56, 58]. | [Ver Código](./exercicio-12/) |
+
+---
+
+## 👨‍💻 Autor
+
+Feito com dedicação por **[Seu Nome Completo]**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[SEU_LINKEDIN]/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[SEU_USUARIO_GITHUB]/)

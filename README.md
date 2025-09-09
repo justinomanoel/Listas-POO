@@ -6,44 +6,16 @@ Fatec Rubens Lara
 Repositório dedicado à resolução da **Lista de Exercícios 1** da disciplina de **Programação Orientada a Objetos (POO)**, do curso de **Análise e Desenvolvimento de Sistemas** na Faculdade de Tecnologia Baixada Santista - Rubens Lara.
 
 A lista de exercícios foi proposta pelo Prof. Dr. Alexandre Garcia de Oliveira e aborda os seguintes tópicos[cite: 2]:
-* Introdução, Construtores e Enumerações [cite: 4]
-* Modificador `static` [cite: 40]
-* Relação entre Classes [cite: 44]
-
+* Introdução, Construtores e Enumerações
+* Modificador `static`
+* Relação entre Classes
+  
 ## 🛠️ Tecnologias e Ferramentas
 
 -   **Linguagem Principal:** Java
--   **JDK:** [Ex: OpenJDK 17]
--   **IDE:** [Ex: Eclipse, IntelliJ IDEA, VS Code]
+-   **JDK:** 17
+-   **IDE:** VS Code
 -   **Controle de Versão:** Git e GitHub
-
----
-
-## 🚀 Como Executar os Exercícios
-
-Cada exercício está em sua própria pasta para melhor organização. Para executar:
-
-1.  **Clone o repositório:**
-    ```bash
-    git clone [https://github.com/](https://github.com/)[SEU_USUARIO_GITHUB]/[NOME_DO_REPOSITORIO].git
-    ```
-
-2.  **Navegue até a pasta do exercício desejado:**
-    ```bash
-    cd [NOME_DO_REPOSITORIO]/exercicio-01
-    ```
-
-3.  **Compile o(s) arquivo(s) `.java`:**
-    ```bash
-    javac *.java
-    ```
-
-4.  **Execute a classe principal:**
-    ```bash
-    java Main # ou o nome da classe principal
-    ```
-
-*Observação: A forma mais simples é importar o projeto em sua IDE Java preferida e executar a classe principal por meio dela.*
 
 ---
 

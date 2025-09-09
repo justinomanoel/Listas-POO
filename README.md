@@ -25,7 +25,7 @@ A tabela abaixo detalha cada exercício proposto na lista.
 
 | Exercício | Descrição Resumida | Link da Solução |
 | :-------- | :----------------------------------------------------------- | :---------------------------------- |
-| **01** | Classe `Pessoa` e `Churrasco` para calcular o consumo de carne por pessoa[cite: 5, 6, 7]. | [Ver Código](./tree/main/lista1/src/main/java/com/lista1/exercicio1) |
+| **01** | Classe `Pessoa` e `Churrasco` para calcular o consumo de carne por pessoa[cite: 5, 6, 7]. | [Ver Código](.lista1/src/main/java/com/lista1/exercicio1/Exercicio1.java) |
 | **02** | Classe `Lâmpada` com estado (acesa/apagada), contador de acendimentos e checagem de estado[cite: 9, 10, 11, 12]. | [Ver Código](.lista1/src/main/java/com/lista1/exercicio2/) |
 | **03** | Classe `Complexo` para representar e calcular operações com números imaginários (soma, multiplicação, módulo, etc.)[cite: 14, 19, 20, 23]. | [Ver Código](./lista1/src/main/java/com/lista1/exercicio3/) |
 | **04** | Classe `Cliente` com atributos de saldo e limite, e métodos para sacar, depositar e checar saldo[cite: 25, 26, 27, 28]. | [Ver Código](./lista1/src/main/java/com/lista1/exercicio4/) |

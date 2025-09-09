@@ -1,14 +1,14 @@
 # ☕ Programação Orientada a Objetos - FATEC Rubens Lara
 ## Resolução da Lista de Exercícios 1
 
-![Fatec Rubens Lara](https://i.imgur.com/2YRE02S.png)
+Fatec Rubens Lara
 
-Repositório dedicado à resolução da **Lista de Exercícios 1** da disciplina de **Programação Orientada a Objetos (POO)**, do curso de **[Nome do seu Curso, ex: Análise e Desenvolvimento de Sistemas]** na Faculdade de Tecnologia de Santos - Rubens Lara.
+Repositório dedicado à resolução da **Lista de Exercícios 1** da disciplina de **Programação Orientada a Objetos (POO)**, do curso de **Análise e Desenvolvimento de Sistemas** na Faculdade de Tecnologia Baixada Santista - Rubens Lara.
 
-[cite_start]A lista de exercícios foi proposta pelo Prof. Dr. Alexandre Garcia de Oliveira e aborda os seguintes tópicos[cite: 2]:
-* [cite_start]Introdução, Construtores e Enumerações [cite: 4]
-* [cite_start]Modificador `static` [cite: 40]
-* [cite_start]Relação entre Classes [cite: 44]
+A lista de exercícios foi proposta pelo Prof. Dr. Alexandre Garcia de Oliveira e aborda os seguintes tópicos[cite: 2]:
+* Introdução, Construtores e Enumerações [cite: 4]
+* Modificador `static` [cite: 40]
+* Relação entre Classes [cite: 44]
 
 ## 🛠️ Tecnologias e Ferramentas
 

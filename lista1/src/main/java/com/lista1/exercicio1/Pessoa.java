@@ -6,7 +6,7 @@ public class Pessoa {
     private int idade;
     private boolean vegetariana;
    
-    public Pessoa(String nome,String sexo, int idade, boolean vegetariana){
+    public Pessoa(String nome, String sexo, int idade, boolean vegetariana){
         this.nome = nome;
         this.sexo = sexo;
         this.idade = idade;
